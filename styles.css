@@ -9,6 +9,7 @@
 body{
     background-color: #000000;
     display: flex;
+    overflow: hidden;
 }
 
 .card{
